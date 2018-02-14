@@ -1,5 +1,5 @@
 {
-  "name": "Leaflet.mouseposition",
+  "name": "sg.leaflet.mouseposition",
   "repository": "https://github.com/sorx00/Leaflet.mouseposition",
   "version": "0.1.0",
   "description": "Leaflet plugin which provides displaying of geographic coordinates under mouse cursor position",
